@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá a todos! 👋
 
 <!--
 **livelton/livelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![backimage](https://www.training.com.au/wp-content/uploads/technologist-400px-transparent-02.png)
+- Analista de sistemas, atualmente cursando no Instituto Federal da Paraíba
