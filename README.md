@@ -5,7 +5,6 @@
 # Sou analista de sistemas, atualmente cursando no Instituto Federal da Paraíba, Campus Cajazeiras.
 ## Admiro a promgramação desde pequeno, procuro melhorar cada dia mais, gosto de praticar desenvolvimento web. Procuro crescer pessoalmente e profissionalmente junto do meu curso
 
-</br>
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
