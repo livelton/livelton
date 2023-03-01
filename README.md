@@ -13,9 +13,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=livelton&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="www.linkedin.com/in/livelton" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div> 
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/elivelton-pereira-da-silva-0a7971257/">![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+</div>
 
 ### Tecnologias que estou habituado a usar:
 
