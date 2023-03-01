@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api?username=livelton&show_icons=true&count_private=true&hide_border=true&title_color=33cc33&icon_color=33cc33&text_color=c9d1d9&bg_color=0d1117" alt="Elivelton's github stats" /> 
-  <img width="41%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelton&layout=compact&hide_border=true&title_color=33cc33&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelton&layout=demo&hide_border=true&title_color=33cc33&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 [![Elivelton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=livelton&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
