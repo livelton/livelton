@@ -7,15 +7,13 @@
   <img width="41%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelton&layout=demo&hide_border=true&title_color=33cc33&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Elivelton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=livelton&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=livelton&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/elivelton-pereira-da-silva-0a7971257/">![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/livelton/">![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </div>
 
