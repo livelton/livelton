@@ -1,40 +1,20 @@
+Olá, meu nome é Elivelton, sou de Triunfo, Paraíba, Brasil. Estou cursando análise e desenvolvimento de sistemas pelo [Instituto Federal da Paraíba](https://www.ifpb.edu.br/). Tenho grande interesse em desenvolvimento web e na expressão de ideias por meio de prototipação. Estou constantemente me aprimorando em outras áreas e estou sempre aberto a aprender coisas novas.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=1000&color=33cc33&size=40&center=true&vCenter=true&width=1000&height=180&lines=Ol%C3%A1+a+todos%2C+Meu+nome+%C3%A9+Elivelton!;Sou+de+Triunfo%2C+Para%C3%ADba%2C+Brasil;Estudo+no+Instituto+Federal+da+Para%C3%ADba.)](https://git.io/typing-svg)
-###### Desenvolvedor
+### Técnologias e ferramentas:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 
-<div align="center">  
-  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api?username=livelton&show_icons=true&count_private=true&hide_border=true&title_color=33cc33&icon_color=33cc33&text_color=c9d1d9&bg_color=0d1117" alt="Elivelton's github stats" /> 
-  <img width="41%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelton&layout=demo&hide_border=true&title_color=33cc33&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=livelton&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/livelton/">![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-</div>
-
-### Tecnologias que estou habituado a usar:
-
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-
-
-### Ferramentas que estou habituado a usar:
-![FIGMA](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-![VISUAL STUDIO CODE](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-![EXCEL](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-
-
-### Sobre mim:
-#### Admiro a programação desde pequeno, procuro melhorar cada dia mais, gosto de praticar desenvolvimento web. Procuro crescer pessoalmente e profissionalmente junto do meu curso. Hoje, adoro programar e gosto muito de design em geral, espero conseguir meus objetivos através da programação!
-
-
+#### Contato:
+<a href="https://www.linkedin.com/in/livelton/">![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
